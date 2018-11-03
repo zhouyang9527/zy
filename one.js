@@ -1,2 +1,2 @@
-let a = "星期一";
+let a = "星期二";
 console.log(a);
